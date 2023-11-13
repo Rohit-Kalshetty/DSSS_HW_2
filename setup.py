@@ -8,10 +8,10 @@ setup(
     entry_points={
         'console_scripts': [],
     },
-    author='Your Name',
-    author_email='your.email@example.com',
-    description='A short description of your package',
-    url='https://github.com/your-username/your-repo',
+    author='Rohit Kalshetty',
+    author_email='rohit.kalshetty@fau.de',
+    description='Data Science Survival Skills',
+    url='https://github.com/Rohit-Kalshetty/DSSS_HW_2.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
