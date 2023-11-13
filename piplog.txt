@@ -1,0 +1,14 @@
+2023-11-13T20:43:15,019 Using pip 23.3.1 from C:\Users\rohit\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pip (python 3.11)
+2023-11-13T20:43:15,019 User install by explicit request
+2023-11-13T20:43:15,038 Created temporary directory: C:\Users\rohit\AppData\Local\Temp\pip-build-tracker-lyc0eolb
+2023-11-13T20:43:15,038 Initialized build tracking at C:\Users\rohit\AppData\Local\Temp\pip-build-tracker-lyc0eolb
+2023-11-13T20:43:15,038 Created build tracker: C:\Users\rohit\AppData\Local\Temp\pip-build-tracker-lyc0eolb
+2023-11-13T20:43:15,038 Entered build tracker: C:\Users\rohit\AppData\Local\Temp\pip-build-tracker-lyc0eolb
+2023-11-13T20:43:15,038 Created temporary directory: C:\Users\rohit\AppData\Local\Temp\pip-install-gym2lsm6
+2023-11-13T20:43:15,044 Created temporary directory: C:\Users\rohit\AppData\Local\Temp\pip-ephem-wheel-cache-_dzkvg0t
+2023-11-13T20:43:15,052 Requirement already satisfied: package_name in c:\users\rohit\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (0.1)
+2023-11-13T20:43:15,066 Created temporary directory: C:\Users\rohit\AppData\Local\Temp\pip-unpack-x3fmjlej
+2023-11-13T20:43:15,100 Remote version of pip: 23.3.1
+2023-11-13T20:43:15,100 Local version of pip:  23.3.1
+2023-11-13T20:43:15,100 Was pip installed by pip? True
+2023-11-13T20:43:15,100 Removed build tracker: 'C:\\Users\\rohit\\AppData\\Local\\Temp\\pip-build-tracker-lyc0eolb'
