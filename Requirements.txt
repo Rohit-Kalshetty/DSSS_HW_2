@@ -1,0 +1,5 @@
+Requirements:
+
+1. Python must be present on your device or else must be installed on your computer.
+2. Ensure that Git is installed on your machine.
+3. Also log into Git with your E-mail address.
